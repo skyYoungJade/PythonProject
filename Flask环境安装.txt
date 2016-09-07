@@ -1,18 +1,18 @@
-Ò»¡¢pip³£ÓÃÃüÁî£º
-	pip install  °²×°
-	pip uninstall  Ğ¶ÔØ
-	pip list  Õ¹Ê¾ÏÖÔÚÒÑ°²×°µÄPython°ü
+ä¸€ã€pipå¸¸ç”¨å‘½ä»¤ï¼š
+	pip install  å®‰è£…
+	pip uninstall  å¸è½½
+	pip list  å±•ç¤ºç°åœ¨å·²å®‰è£…çš„PythonåŒ…
 	
 	
-¶ş¡¢°²×°pip£º
-		pip¹ÙÍø£ºhttps://pip.pypa.io/en/stable/installing/#installing-with-get-pip-py
-		ÏÂÔØ get-pip.py 
-		Ö´ĞĞÃüÁî£ºpython get-pip.py
-		°²×°pip³É¹¦
+äºŒã€å®‰è£…pipï¼š
+		pipå®˜ç½‘ï¼šhttps://pip.pypa.io/en/stable/installing/#installing-with-get-pip-py
+		ä¸‹è½½ get-pip.py 
+		æ‰§è¡Œå‘½ä»¤ï¼špython get-pip.py
+		å®‰è£…pipæˆåŠŸ
 
-Èı¡¢ÀûÓÃpip°²×°flask£º
-		Ö´ĞĞÃüÁî£ºpip install flask
-		µÈ´ı°²×°...
-		³É¹¦£¡
+ä¸‰ã€åˆ©ç”¨pipå®‰è£…flaskï¼š
+		æ‰§è¡Œå‘½ä»¤ï¼špip install flask
+		ç­‰å¾…å®‰è£…...
+		æˆåŠŸï¼
 		
 			
