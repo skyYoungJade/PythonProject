@@ -1,0 +1,18 @@
+一、pip常用命令：
+	pip install  安装
+	pip uninstall  卸载
+	pip list  展示现在已安装的Python包
+	
+	
+二、安装pip：
+		pip官网：https://pip.pypa.io/en/stable/installing/#installing-with-get-pip-py
+		下载 get-pip.py 
+		执行命令：python get-pip.py
+		安装pip成功
+
+三、利用pip安装flask：
+		执行命令：pip install flask
+		等待安装...
+		成功！
+		
+			
